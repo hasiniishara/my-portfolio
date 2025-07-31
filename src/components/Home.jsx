@@ -14,7 +14,7 @@ function Home() {
       />
       <h1 className="text-5xl font-extrabold mb-4">Hey, I’m Hasini Ishara</h1>
       <p className="max-w-2xl text-center text-lg mb-6">
-        A passionate Test Automation Engineer with over 4 years of
+        A passionate Test Automation Engineer with 5 years of
         experience. I love building efficient automation frameworks and
         developing scalable web applications. I’m fascinated by cloud technologies, especially AWS,
         and enjoy integrating DevOps practices into testing pipelines to deliver
