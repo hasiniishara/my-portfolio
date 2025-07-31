@@ -15,7 +15,7 @@ function About() {
       </p>
 
       <p className="text-gray-300 text-lg mb-6">
-        With over 4 years in the field, I’ve worked across web, mobile, and embedded systems, specializing in:
+        With 5 years in the field, I’ve worked across web, mobile, and embedded systems, specializing in:
       </p>
 
       <ul className="list-disc list-inside text-gray-300 mb-6 space-y-2">

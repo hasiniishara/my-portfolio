@@ -11,7 +11,7 @@ const skillCategories = [
   },
   {
     title: "Cloud & DevOps",
-    skills: ["AWS (Basic)", "Docker", "Jenkins", "GitHub Actions", "Ansible", "CI/CD", "Infrastructure-as-Code"],
+    skills: ["AWS (Basic)", "Docker", "Jenkins", "GitHub Actions", "Ansible", "CI/CD", "Azure DevOps", "Infrastructure-as-Code"],
   },
   {
     title: "Testing Areas",
