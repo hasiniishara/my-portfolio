@@ -23,7 +23,7 @@ function About() {
       </p>
 
       <ul className="list-disc list-inside text-gray-300 mb-6 space-y-2">
-        <li>Designing scalable automation frameworks using <strong>Python, JavaScript Selenium, and Robot Framework</strong></li>
+        <li>Designing scalable automation frameworks using <strong>Python, JavaScript, Selenium, and Robot Framework</strong></li>
         <li>Integrating automated tests into <strong>CI/CD pipelines</strong> using GitHub Actions, GitLab CI, and Jenkins</li>
         <li>Testing both frontend and backend systems with <strong>API automation and functional test suites</strong></li>
         <li>Running tests across cloud environments, especially <strong>AWS</strong></li>
