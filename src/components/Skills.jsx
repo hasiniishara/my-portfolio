@@ -3,11 +3,11 @@ import React from "react";
 const skillCategories = [
   {
     title: "Programming & Tools",
-    skills: ["Python", "Java", "JavaScript", "TypeScript", "Kotlin", "Git", "GitHub Actions", "Jenkins", "Ansible", "Docker", "Linux", "macOS"],
+    skills: ["Python", "Java", "JavaScript", "TypeScript", "Kotlin", "Git", "GitHub Actions", "Jenkins", "Linux", "macOS"],
   },
   {
     title: "Testing & Automation",
-    skills: ["Selenium", "Appium", "Robot Framework", "SpecFlow", "Pytest", "JMeter", "REST Assured", "Postman"],
+    skills: ["Selenium", "Appium", "Robot Framework", "SpecFlow", "Pytest", "JMeter", "TestNG",  "REST Assured", "Postman"],
   },
   {
     title: "Cloud & DevOps",

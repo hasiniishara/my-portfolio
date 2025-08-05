@@ -7,7 +7,7 @@ const experiences = [
     duration: "01/2025 - Present",
     domain: "SaaS, Finance, Insurance, Wealth Management",
     description:
-      "Designed Python UI/API automation integrated with CI/CD pipelines, led test strategies, and collaborated with developers to maintain high product quality.",
+      "Design Python UI/API automation integrate with CI/CD pipelines, lead test strategies, and collaborate with developers to maintain high product quality.",
   },
   {
     company: "Konecranes Finland Oy | Finland, Hyvinkää",
